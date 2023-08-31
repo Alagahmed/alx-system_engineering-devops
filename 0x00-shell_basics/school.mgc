@@ -1,0 +1,3 @@
+0 String SCHOOL school date
+!:mime School
+file -c -m school.mgc
